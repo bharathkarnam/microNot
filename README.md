@@ -4,6 +4,8 @@ To run the application with Gradle use:
 
 $ cd hello-world-java
 $ ./gradlew run
+
+
 To run the application with Maven use:
 
 $ ./mvnw exec:exec
